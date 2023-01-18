@@ -1,0 +1,8 @@
+D:\RPAizredniAS\LamdaIzrazi\LamdaIzrazi\bin\Debug\LamdaIzrazi.exe.config
+D:\RPAizredniAS\LamdaIzrazi\LamdaIzrazi\bin\Debug\LamdaIzrazi.exe
+D:\RPAizredniAS\LamdaIzrazi\LamdaIzrazi\bin\Debug\LamdaIzrazi.pdb
+D:\RPAizredniAS\LamdaIzrazi\LamdaIzrazi\obj\Debug\LamdaIzrazi.csproj.AssemblyReference.cache
+D:\RPAizredniAS\LamdaIzrazi\LamdaIzrazi\obj\Debug\LamdaIzrazi.csproj.SuggestedBindingRedirects.cache
+D:\RPAizredniAS\LamdaIzrazi\LamdaIzrazi\obj\Debug\LamdaIzrazi.csproj.CoreCompileInputs.cache
+D:\RPAizredniAS\LamdaIzrazi\LamdaIzrazi\obj\Debug\LamdaIzrazi.exe
+D:\RPAizredniAS\LamdaIzrazi\LamdaIzrazi\obj\Debug\LamdaIzrazi.pdb
