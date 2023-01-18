@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EqV6z+tzHukEIOiqVTNKWIuATdEEHAuinRaMO9/TfBBHZuVdUhFuxkgJVa3mSiGdm9hGWZTRLHQldfZrLN8jqw==",
+  "success": true,
+  "projectFilePath": "D:\\RPAizredniAS\\PrvaVaja\\PrvaVaja\\PrvaVaja.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\student\\.nuget\\packages\\fsharp.core\\6.0.5\\fsharp.core.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
